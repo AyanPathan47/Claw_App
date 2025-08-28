@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/React_Native-0.79.0-blue.svg" alt="React Native Version">
   <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey.svg" alt="Platform">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status">
 </div>
 
